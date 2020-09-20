@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkData":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"0.1","enabled":true,"outputFile":"launcher-release.apk","fullName":"release","baseName":"release","dirName":""},"path":"AndroidManifest.xml","properties":{"packageId":"com.linxinfa.game","split":"","minSdkVersion":"19"}}]

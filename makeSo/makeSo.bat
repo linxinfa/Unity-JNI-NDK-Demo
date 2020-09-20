@@ -1,0 +1,2 @@
+cd jni
+ndk-build
